@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/AI/BP_EnemyGuard.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/CK/T2991NIVLOAJUI0LG26G65.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/9E/8IE6V64005G3I9HOZUVHET.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/5L/T2AMM4N6YW5PRD5OD26HB8.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/8E/CJZGILOC9YLP36ZFNKIL1A.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/YM/J27BB1UUGSUVQY1QCVZXP0.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/O0/MCGGI7H5XYZN6JN0S2TANI.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/J3/904ZKZ6GDAERM7DSTMERO5.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/HB/W3EG1RRV0P56V421YIMIQW.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/6N/AMOYTK4QBDN29JBBHQBE97.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/ZA/P2RVV72X5M56I7N6VMB6JP.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/GM/X6CIBINNCIQWTCXLFTGVY3.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/NN/ATOSUDI00IZSO0NIV4VILY.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/BG/7897FWS8DMO7BLSZVZ4E9Z.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/TV/H3LO6N197TQJHZ2ONWEX0J.uasset",
+				"C:/Users/5022810/Documents/GitHub/Chayzonfunproject/LearningadvAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/V6/24ZH28837U0BNDZ16ZPCLU.uasset"
+			]
+		}
+	]
+}
